@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello 🙋‍♀️
+My name is Alicja and I am interested in developing iOS apps 👩‍💻 I graduated from Biomedical Engineering at the AGH University of Science and Technology in Krakow and am currently pursuing a Master's Degree in Computer Science at the same university 🎓 In addition to developing mobile applications, I am involved in biomedical image processing, mainly X-rays 📷
 <!--
 **asmolikowska/asmolikowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
